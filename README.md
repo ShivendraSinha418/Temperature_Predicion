@@ -15,7 +15,7 @@ This project applies **Linear Regression** to predict the **maximum and minimum 
 ✅ Simple, clean visualization with seaborn
 
 ---
-![Banner](temp.jpeg)
+![Banner](https://github.com/ShivendraSinha418/Temperature_Predicion/blob/main/temp.jpg)
 
 ## 📊 Sample Output
 
